@@ -1,0 +1,94 @@
+"CEI","Nom","Prénom","Poste","District","Validité","Obsolescence"
+"Locmine","BERNARD","YANNICK","responsable d'explo","District 56",NA,NA
+"Locmine","BIGORGNE","KEVIN","agent d'exploitation","District 56","05/12/2033","Durable"
+"Locmine","BILLARD","SAMUEL","agent d'exploitation","District 56","07/12/2032","Durable"
+"Locmine","BLANC","GUILLAUME","agent d'exploitation","District 56","12/03/2030","Durable"
+"Locmine","CHUPIN","LOIC","agent d'exploitation","District 56","07/12/2032","Durable"
+"Locmine","CLOUTRIER","SYLVAIN","chef equipe a","District 56","10/01/2033","Durable"
+"Locmine","COGARD","JEAN-FRANCOIS","responsable d'explo","District 56","05/04/2034","Durable"
+"Locmine","DERIAN","ANTHONY","agent d'exploitation","District 56","07/12/2032","Durable"
+"Locmine","ETORE","SEBASTIEN","agent d'exploitation","District 56","07/12/2032","Durable"
+"Locmine","FRACCARO","NATHALIE","chef(fe) d'equipe","District 56","05/04/2034","Durable"
+"Locmine","LE BORNE","CHRISTOPHE","agent d'exploitation","District 56","07/12/2032","Durable"
+"Locmine","LE BRAZIDEC","YOANN","agent d'exploitation","District 56","10/12/2031","Durable"
+"Locmine","LE TUTOUR","YANNICK","agent d'exploitation","District 56","05/04/2034","Durable"
+"Locmine","OFFREDO","SAMUEL","responsable d'explo","District 56","07/12/2032","Durable"
+"Locmine","PHILIPPE","JULIEN","agent d'exploitation","District 56",NA,NA
+"Locmine","PICAUD","PIERRE","agent d'exploitation","District 56","05/04/2034","Durable"
+"Locmine","RENAUD","RAPHAEL","responsable de cei","District 56","07/12/2032","Durable"
+"Locmine","SABATIER","BERTRAND","agent d'exploitation","District 56","05/04/2034","Durable"
+"Lorient","AUDEFROY","PIERRE","responsable d'explo","District 56","03/12/2035","Durable"
+"Lorient","BENLAHSEN","OUSSAMA","agent d'exploitation","District 56","03/12/2035","Durable"
+"Lorient","CAURANT","DAVID","chef equipe a","District 56","26/11/2035","Durable"
+"Lorient","COURTEL","ALAN","responsable d'exploi","District 56",NA,NA
+"Lorient","EVRARD","VIRGILE","agent d'exploitation","District 56",NA,NA
+"Lorient","GEY","YVES","agent d'exploitation","District 56",NA,NA
+"Lorient","LALAISON","ARNAUD","agent d'exploitation","District 56","03/12/2035","Durable"
+"Lorient","LE BRIZOUAL","DOMINIQUE","agent d'exploitation","District 56","03/12/2035","Durable"
+"Lorient","LE GLEUT","PATRICE","agent d'exploitation","District 56",NA,NA
+"Lorient","LE MEILLOUR","ROMAIN","agent d'exploitation","District 56",NA,NA
+"Lorient","LE NADANT","MIKAEL","agent d'exploitation","District 56","03/12/2035","Durable"
+"Lorient","LE PENNEC","MARC","agent d'exploitation","District 56",NA,NA
+"Lorient","LEREVEREND","STEPHANE","agent d'exploitation","District 56","18/11/2035","Durable"
+"Lorient","MARJANOVIC","JEROME","agent d'exploitation","District 56",NA,NA
+"Lorient","MAUBRY","FRANCK",NA,"District 56","03/12/2035","Durable"
+"Lorient","MAUBRY","FRANK","responsable d'explo","District 56",NA,NA
+"Lorient","MELIN","XAVIER","agent d'exploitation","District 56",NA,NA
+"Lorient","MERCIER","CEDRIC","responsable d'explo","District 56","18/11/2035","Durable"
+"Lorient","MERLE","CYRIL","agent d'exploitation","District 56","03/12/2035","Durable"
+"Lorient","MICHAUT","JOHAN","agent d'exploitation","District 56",NA,NA
+"Lorient","PENVERNE","GUILLAUME","agent d'exploitation","District 56","18/11/2035","Durable"
+"Lorient","PERESSE","ARNAUD","agent d'exploitation","District 56","18/11/2035","Durable"
+"Lorient","QUERO","ANTHONY","responsable d'explo","District 56","03/12/2035","Durable"
+"Lorient","QUERO","AURELIEN","agent d'exploitation","District 56","03/12/2035","Durable"
+"Lorient","QUISTREBERT","FRANCOIS","agent d'exploitation","District 56","03/12/2035","Durable"
+"Lorient","TILLIOLE","PATRICK","agent d'exploitation","District 56",NA,NA
+"Lorient","TISSEYRE","ALAIN","chef.fe de cei","District 56",NA,NA
+"Lorient","YVON","CYRIL","agent d'exploitation","District 56","18/11/2035","Durable"
+"Ploermel","AUBRY","STEPHANE","chef equipe b","District 56","25/05/2028","Durable"
+"Ploermel","BESSY","FRANCK","agent d'exploitation","District 56",NA,NA
+"Ploermel","COUDRIN","JULIEN","agent d'exploitation","District 56","10/03/2030","Durable"
+"Ploermel","COUDRIN","JULIEN","agent d'exploitation","District 56","10/01/2033","Durable"
+"Ploermel","COURANT","ANTHONY","responsable de cei","District 56",NA,NA
+"Ploermel","DACQUAIT","CHRISTOPHE","chef equipe a","District 56",NA,NA
+"Ploermel","FALIGOT-MOREL","GUILLAUME","agent d'exploitation","District 56","26/11/2035","Durable"
+"Ploermel","GUINEBAULT","DAVID","agent d'exploitation","District 56","05/04/2034","Durable"
+"Ploermel","LE LUHERNE","ALAIN","agent d'exploitation","District 56","07/12/2032","Durable"
+"Ploermel","LUCIA","ARNAUD","responsable d'explo","District 56",NA,NA
+"Ploermel","ODEZENNE","MARTIAL","agent d'exploitation","District 56","10/03/2030","Durable"
+"Ploermel","PEDRONO","ANTHONY","agent d'exploitation","District 56","10/03/2030","Durable"
+"Ploermel","PERRIN","CHRISTOPHE","agent d'exploitation","District 56","12/03/2030","Durable"
+"Ploermel","PLEIBER","CHRISTOPHE","agent d'exploitation","District 56",NA,NA
+"Ploermel","POUSSE","CHRISTELE","agent d'exploitation","District 56","12/03/2030","Durable"
+"Ploermel","SERY","GUY","chef(fe) d'equipe","District 56","23/01/2030","Durable"
+"Ploermel","THOMAS","JEAN-PAUL",NA,"District 56","12/03/2030","Durable"
+"Ploermel","WUILMET","VINCENT","agent d'exploitation","District 56","12/03/2030","Durable"
+"Vannes","GIMAY","CHRISTOPHE","agent d'exploitation","District 56",NA,NA
+"Vannes","GOPAL","RICHARD","agent d'exploitation","District 56",NA,NA
+"Vannes","GUILLODO","MARVYN","agent d'exploitation","District 56",NA,NA
+"Vannes","GUILLODO","NICOLAS","agent d'exploitation","District 56","29/04/2032","Durable"
+"Vannes","HAIRIE","LAURENT","agent d'exploitation","District 56",NA,NA
+"Vannes","HOUSSET","NICOLAS","agent d'exploitation","District 56",NA,NA
+"Vannes","JARNO","MICKAEL","agent d'exploitation","District 56","27/04/2027","Moins d'1 an"
+"Vannes","JOSE","PATRICE","agent d'exploitation","District 56",NA,NA
+"Vannes","KERGARAVAT","BRUNO","responsable d'explo","District 56",NA,NA
+"Vannes","KERJOUAN","JEAN-CHARLES","agent d'exploitation","District 56","29/04/2032","Durable"
+"Vannes","KERVILLE","ALAIN","agent d'exploitation","District 56","28/03/2029","Durable"
+"Vannes","LE BLANC","BRUNO","agent d'exploitation","District 56","29/04/2032","Durable"
+"Vannes","LE MARECHAL","FABRICE","agent d'exploitation","District 56","29/04/2032","Durable"
+"Vannes","LE NOUAIL","LAURENT","chef equipe a","District 56",NA,NA
+"Vannes","LEVEQUE","YOANN","chef equipe d","District 56","10/03/2030","Durable"
+"Vannes","MAUPIN","JEAN-LUC","agent d'exploitation","District 56",NA,NA
+"Vannes","MEHAT","STEPHANE","agent d'exploitation","District 56",NA,NA
+"Vannes","MORIO","SAMUEL","chef equipe b","District 56",NA,NA
+"Vannes","PELLETIER","PASCAL","responsable de cei","District 56",NA,NA
+"Vannes","PERONO","PHILIPPE","agent d'exploitation","District 56","29/04/2032","Durable"
+"Vannes","PINARD","CLEMENT","agent d'exploitation","District 56",NA,NA
+"Vannes","PIQUET","DOMINIQUE","agent d'exploitation","District 56",NA,NA
+"Vannes","PLUNIAN","PATRICE","agent d'exploitation","District 56","10/03/2030","Durable"
+"Vannes","POTIER","VINCENT","agent d'exploitation","District 56",NA,NA
+"Vannes","RAOULT","ROLAND","adjoint.e au chef","District 56",NA,NA
+"Vannes","REPAIN","MARVIN","agent d'exploitation","District 56",NA,NA
+"Vannes","ROBIN","OLIVIER","agent d'exploitation","District 56",NA,NA
+"Vannes","SCHOTT","YANNICK","responsable d'explo","District 56",NA,NA
+"Vannes","THORON","PHILIPPE","chef equipe b","District 56",NA,NA
