@@ -1,12 +1,10 @@
 "CEI","Nom","Prénom","Poste","District","Validité","Obsolescence"
 "Locmine","BERNARD","YANNICK","responsable d'explo","District 56",NA,NA
 "Locmine","BIGORGNE","KEVIN","agent d'exploitation","District 56","03/01/2033","Durable"
-"Locmine","BILLARD","SAMUEL","agent d'exploitation","District 56","03/01/2033","Durable"
 "Locmine","BLANC","GUILLAUME","agent d'exploitation","District 56","20/12/2028","Durable"
 "Locmine","CHUPIN","LOIC","agent d'exploitation","District 56","15/02/2028","Durable"
 "Locmine","CLOUTRIER","SYLVAIN","chef equipe a","District 56",NA,NA
 "Locmine","COGARD","JEAN-FRANCOIS","responsable d'explo","District 56",NA,NA
-"Locmine","DERIAN","ANTHONY","agent d'exploitation","District 56","07/12/2027","Durable"
 "Locmine","ETORE","SEBASTIEN","agent d'exploitation","District 56",NA,NA
 "Locmine","FRACCARO","NATHALIE","chef(fe) d'equipe","District 56",NA,NA
 "Locmine","LE BORNE","CHRISTOPHE","agent d'exploitation","District 56",NA,NA
@@ -62,7 +60,7 @@
 "Ploermel","SERY","GUY","chef(fe) d'equipe","District 56","17/01/2030","Durable"
 "Ploermel","THOMAS","JEAN-PAUL",NA,"District 56","20/12/2028","Durable"
 "Ploermel","WUILMET","VINCENT","agent d'exploitation","District 56","28/11/2029","Durable"
-"Vannes","GIMAY","CHRISTOPHE","agent d'exploitation","District 56",NA,NA
+"Vannes","BLANCHET","SYLVAIN",NA,"District 56","04/10/2034","Durable"
 "Vannes","GOPAL","RICHARD","agent d'exploitation","District 56",NA,NA
 "Vannes","GUILLODO","MARVYN","agent d'exploitation","District 56",NA,NA
 "Vannes","GUILLODO","NICOLAS","agent d'exploitation","District 56","07/11/2029","Durable"
@@ -72,7 +70,6 @@
 "Vannes","JOSE","PATRICE","agent d'exploitation","District 56",NA,NA
 "Vannes","KERGARAVAT","BRUNO","responsable d'explo","District 56",NA,NA
 "Vannes","KERJOUAN","JEAN-CHARLES","agent d'exploitation","District 56",NA,NA
-"Vannes","KERVILLE","ALAIN","agent d'exploitation","District 56","28/03/2029","Durable"
 "Vannes","LE BLANC","BRUNO","agent d'exploitation","District 56",NA,NA
 "Vannes","LE MARECHAL","FABRICE","agent d'exploitation","District 56",NA,NA
 "Vannes","LE NOUAIL","LAURENT","chef equipe a","District 56",NA,NA
@@ -80,6 +77,7 @@
 "Vannes","MAUPIN","JEAN-LUC","agent d'exploitation","District 56",NA,NA
 "Vannes","MEHAT","STEPHANE","agent d'exploitation","District 56",NA,NA
 "Vannes","MORIO","SAMUEL","chef equipe b","District 56",NA,NA
+"Vannes","NIZAN","FABIEN","agent d'exploitation","District 56",NA,NA
 "Vannes","PELLETIER","PASCAL","responsable de cei","District 56",NA,NA
 "Vannes","PERONO","PHILIPPE","agent d'exploitation","District 56",NA,NA
 "Vannes","PINARD","CLEMENT","agent d'exploitation","District 56",NA,NA
@@ -91,3 +89,4 @@
 "Vannes","ROBIN","OLIVIER","agent d'exploitation","District 56","12/12/2029","Durable"
 "Vannes","SCHOTT","YANNICK","responsable d'explo","District 56",NA,NA
 "Vannes","THORON","PHILIPPE","chef equipe b","District 56",NA,NA
+"Vannes","TOSTEN","DYLAN","agent d'exploitation","District 56",NA,NA
