@@ -1,11 +1,11 @@
 "CEI","Nom","Prénom","Poste","District","Compétence","Validité","Obsolescence"
 "Locmine","BERNARD","YANNICK","responsable d'explo","District 56",NA,NA,NA
-"Locmine","BIGORGNE","KEVIN","agent d'exploitation","District 56","Gerbeur _ ACES","05/09/2027","Durable"
+"Locmine","BIGORGNE","KEVIN","agent d'exploitation","District 56","Gerbeur _ ACES","05/09/2027","Moins d'1 an"
 "Locmine","BLANC","GUILLAUME","agent d'exploitation","District 56",NA,NA,NA
 "Locmine","CHUPIN","LOIC","agent d'exploitation","District 56",NA,NA,NA
 "Locmine","CLOUTRIER","SYLVAIN","chef equipe a","District 56",NA,NA,NA
 "Locmine","COGARD","JEAN-FRANCOIS","responsable d'explo","District 56",NA,NA,NA
-"Locmine","ETORE","SEBASTIEN","agent d'exploitation","District 56","Gerbeur _ ACES","05/09/2027","Durable"
+"Locmine","ETORE","SEBASTIEN","agent d'exploitation","District 56","Gerbeur _ ACES","05/09/2027","Moins d'1 an"
 "Locmine","FRACCARO","NATHALIE","chef(fe) d'equipe","District 56",NA,NA,NA
 "Locmine","LE BORNE","CHRISTOPHE","agent d'exploitation","District 56",NA,NA,NA
 "Locmine","LE BRAZIDEC","YOANN","agent d'exploitation","District 56",NA,NA,NA
@@ -24,13 +24,13 @@
 "Ploermel","GUINEBAULT","DAVID","agent d'exploitation","District 56",NA,NA,NA
 "Ploermel","LE LUHERNE","ALAIN","agent d'exploitation","District 56",NA,NA,NA
 "Ploermel","LUCIA","ARNAUD","responsable d'explo","District 56",NA,NA,NA
-"Ploermel","ODEZENNE","MARTIAL","agent d'exploitation","District 56","Gerbeur _ ACES","05/09/2027","Durable"
+"Ploermel","ODEZENNE","MARTIAL","agent d'exploitation","District 56","Gerbeur _ ACES","05/09/2027","Moins d'1 an"
 "Ploermel","PEDRONO","ANTHONY","agent d'exploitation","District 56",NA,NA,NA
 "Ploermel","PERRIN","CHRISTOPHE","agent d'exploitation","District 56",NA,NA,NA
 "Ploermel","PLEIBER","CHRISTOPHE","agent d'exploitation","District 56",NA,NA,NA
 "Ploermel","POUSSE","CHRISTELE","agent d'exploitation","District 56",NA,NA,NA
 "Ploermel","SERY","GUY","chef(fe) d'equipe","District 56",NA,NA,NA
-"Ploermel","THOMAS","JEAN-PAUL",NA,"District 56","Gerbeur _ ACES","05/09/2027","Durable"
+"Ploermel","THOMAS","JEAN-PAUL",NA,"District 56","Gerbeur _ ACES","05/09/2027","Moins d'1 an"
 "Ploermel","WUILMET","VINCENT","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","BLANCHET","SYLVAIN",NA,"District 56","Gerbeur _ ACES","13/11/2030","Durable"
 "Vannes","GOPAL","RICHARD","agent d'exploitation","District 56",NA,NA,NA
@@ -39,7 +39,6 @@
 "Vannes","HAIRIE","LAURENT","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","HOUSSET","NICOLAS","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","JARNO","MICKAEL","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","JOSE","PATRICE","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","KERGARAVAT","BRUNO","responsable d'explo","District 56",NA,NA,NA
 "Vannes","KERJOUAN","JEAN-CHARLES","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","LE BLANC","BRUNO","agent d'exploitation","District 56",NA,NA,NA
@@ -89,3 +88,6 @@
 "Lorient","TILLIOLE","PATRICK","agent d'exploitation","District 56",NA,NA,NA
 "Lorient","TISSEYRE","ALAIN","chef.fe de cei","District 56",NA,NA,NA
 "Lorient","YVON","CYRIL","agent d'exploitation","District 56",NA,NA,NA
+"ST 56","BELLEC","GILLES","ouvrier en equipes","District 56",NA,NA,NA
+"ST 56","HELIES","LAURENT","responsable  sectio","District 56",NA,NA,NA
+"ST 56","RENAUD","THIERRY","ouvrier en equipes","District 56",NA,NA,NA

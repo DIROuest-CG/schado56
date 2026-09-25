@@ -61,6 +61,9 @@
 "Ploermel","SERY","GUY","chef(fe) d'equipe","District 56","23/01/2030","Durable"
 "Ploermel","THOMAS","JEAN-PAUL",NA,"District 56","12/03/2030","Durable"
 "Ploermel","WUILMET","VINCENT","agent d'exploitation","District 56","12/03/2030","Durable"
+"ST 56","BELLEC","GILLES","ouvrier en equipes","District 56","05/12/2033","Durable"
+"ST 56","HELIES","LAURENT","responsable  sectio","District 56","05/12/2033","Durable"
+"ST 56","RENAUD","THIERRY","ouvrier en equipes","District 56","05/12/2033","Durable"
 "Vannes","BLANCHET","SYLVAIN",NA,"District 56","18/11/2035","Durable"
 "Vannes","GOPAL","RICHARD","agent d'exploitation","District 56",NA,NA
 "Vannes","GUILLODO","MARVYN","agent d'exploitation","District 56",NA,NA
@@ -68,7 +71,6 @@
 "Vannes","HAIRIE","LAURENT","agent d'exploitation","District 56",NA,NA
 "Vannes","HOUSSET","NICOLAS","agent d'exploitation","District 56",NA,NA
 "Vannes","JARNO","MICKAEL","agent d'exploitation","District 56","27/04/2027","Moins d'1 an"
-"Vannes","JOSE","PATRICE","agent d'exploitation","District 56",NA,NA
 "Vannes","KERGARAVAT","BRUNO","responsable d'explo","District 56",NA,NA
 "Vannes","KERJOUAN","JEAN-CHARLES","agent d'exploitation","District 56","29/04/2032","Durable"
 "Vannes","LE BLANC","BRUNO","agent d'exploitation","District 56","29/04/2032","Durable"
@@ -77,7 +79,7 @@
 "Vannes","LEVEQUE","YOANN","chef equipe d","District 56","10/03/2030","Durable"
 "Vannes","MAUPIN","JEAN-LUC","agent d'exploitation","District 56",NA,NA
 "Vannes","MEHAT","STEPHANE","agent d'exploitation","District 56",NA,NA
-"Vannes","MORIO","SAMUEL","chef equipe b","District 56",NA,NA
+"Vannes","MORIO","SAMUEL","chef equipe b","District 56","29/04/2032","Durable"
 "Vannes","NIZAN","FABIEN","agent d'exploitation","District 56",NA,NA
 "Vannes","PELLETIER","PASCAL","responsable de cei","District 56",NA,NA
 "Vannes","PERONO","PHILIPPE","agent d'exploitation","District 56","29/04/2032","Durable"

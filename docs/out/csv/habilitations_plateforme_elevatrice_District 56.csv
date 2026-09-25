@@ -1,8 +1,8 @@
 "CEI","Nom","Prénom","Poste","District","Compétence","Validité","Obsolescence"
 "Locmine","BERNARD","YANNICK","responsable d'explo","District 56",NA,NA,NA
 "Locmine","BIGORGNE","KEVIN","agent d'exploitation","District 56","Nacelles 1B _ ACES","28/03/2028","Durable"
-"Locmine","BLANC","GUILLAUME","agent d'exploitation","District 56","Nacelles 3B _ ACES","31/03/2028","Durable"
 "Locmine","BLANC","GUILLAUME","agent d'exploitation","District 56","Nacelles 1B _ ACES","31/03/2028","Durable"
+"Locmine","BLANC","GUILLAUME","agent d'exploitation","District 56","Nacelles 3B _ ACES","31/03/2028","Durable"
 "Locmine","CHUPIN","LOIC","agent d'exploitation","District 56","Nacelles 1B _ ACES","28/03/2028","Durable"
 "Locmine","CLOUTRIER","SYLVAIN","chef equipe a","District 56","CACES R486 B : PEMP Nacelle 3B","05/01/2033","Durable"
 "Locmine","COGARD","JEAN-FRANCOIS","responsable d'explo","District 56","Nacelles 1B _ ACES","31/03/2028","Durable"
@@ -46,26 +46,26 @@
 "Lorient","TILLIOLE","PATRICK","agent d'exploitation","District 56",NA,NA,NA
 "Lorient","TISSEYRE","ALAIN","chef.fe de cei","District 56",NA,NA,NA
 "Lorient","YVON","CYRIL","agent d'exploitation","District 56",NA,NA,NA
-"Ploermel","AUBRY","STEPHANE","chef equipe b","District 56","Nacelles 1B _ ACES","19/06/2030","Durable"
 "Ploermel","AUBRY","STEPHANE","chef equipe b","District 56","Nacelles 3B _ ACES","19/06/2030","Durable"
-"Ploermel","BESSY","FRANCK","agent d'exploitation","District 56","Nacelles 3B _ ACES","19/06/2030","Durable"
+"Ploermel","AUBRY","STEPHANE","chef equipe b","District 56","Nacelles 1B _ ACES","19/06/2030","Durable"
 "Ploermel","BESSY","FRANCK","agent d'exploitation","District 56","Nacelles 1B _ ACES","19/06/2030","Durable"
+"Ploermel","BESSY","FRANCK","agent d'exploitation","District 56","Nacelles 3B _ ACES","19/06/2030","Durable"
 "Ploermel","COUDRIN","JULIEN","agent d'exploitation","District 56","CACES R486 B : PEMP Nacelle 3B","05/01/2033","Durable"
 "Ploermel","COURANT","ANTHONY","responsable de cei","District 56",NA,NA,NA
-"Ploermel","DACQUAIT","CHRISTOPHE","chef equipe a","District 56","Nacelles 3B _ ACES","19/06/2030","Durable"
 "Ploermel","DACQUAIT","CHRISTOPHE","chef equipe a","District 56","Nacelles 1B _ ACES","19/06/2030","Durable"
-"Ploermel","FALIGOT-MOREL","GUILLAUME","agent d'exploitation","District 56","Nacelles 3B _ ACES","19/06/2030","Durable"
+"Ploermel","DACQUAIT","CHRISTOPHE","chef equipe a","District 56","Nacelles 3B _ ACES","19/06/2030","Durable"
 "Ploermel","FALIGOT-MOREL","GUILLAUME","agent d'exploitation","District 56","Nacelles 1B _ ACES","19/06/2030","Durable"
+"Ploermel","FALIGOT-MOREL","GUILLAUME","agent d'exploitation","District 56","Nacelles 3B _ ACES","19/06/2030","Durable"
 "Ploermel","GUINEBAULT","DAVID","agent d'exploitation","District 56","Nacelles 1B _ ACES","19/06/2030","Durable"
 "Ploermel","GUINEBAULT","DAVID","agent d'exploitation","District 56","Nacelles 3B _ ACES","19/06/2030","Durable"
-"Ploermel","LE LUHERNE","ALAIN","agent d'exploitation","District 56","Nacelles 1B _ ACES","31/03/2028","Durable"
 "Ploermel","LE LUHERNE","ALAIN","agent d'exploitation","District 56","Nacelles 3B _ ACES","31/03/2028","Durable"
-"Ploermel","LUCIA","ARNAUD","responsable d'explo","District 56","Nacelles 3B _ ACES","31/03/2028","Durable"
+"Ploermel","LE LUHERNE","ALAIN","agent d'exploitation","District 56","Nacelles 1B _ ACES","31/03/2028","Durable"
 "Ploermel","LUCIA","ARNAUD","responsable d'explo","District 56","Nacelles 1B _ ACES","31/03/2028","Durable"
-"Ploermel","ODEZENNE","MARTIAL","agent d'exploitation","District 56","Nacelles 3B _ ACES","19/06/2030","Durable"
+"Ploermel","LUCIA","ARNAUD","responsable d'explo","District 56","Nacelles 3B _ ACES","31/03/2028","Durable"
 "Ploermel","ODEZENNE","MARTIAL","agent d'exploitation","District 56","Nacelles 1B _ ACES","19/06/2030","Durable"
-"Ploermel","PEDRONO","ANTHONY","agent d'exploitation","District 56","Nacelles 1B _ ACES","19/06/2030","Durable"
+"Ploermel","ODEZENNE","MARTIAL","agent d'exploitation","District 56","Nacelles 3B _ ACES","19/06/2030","Durable"
 "Ploermel","PEDRONO","ANTHONY","agent d'exploitation","District 56","Nacelles 3B _ ACES","19/06/2030","Durable"
+"Ploermel","PEDRONO","ANTHONY","agent d'exploitation","District 56","Nacelles 1B _ ACES","19/06/2030","Durable"
 "Ploermel","PERRIN","CHRISTOPHE","agent d'exploitation","District 56",NA,NA,NA
 "Ploermel","PLEIBER","CHRISTOPHE","agent d'exploitation","District 56",NA,NA,NA
 "Ploermel","POUSSE","CHRISTELE","agent d'exploitation","District 56","Nacelles 3B _ ACES","19/06/2030","Durable"
@@ -79,7 +79,6 @@
 "Vannes","HAIRIE","LAURENT","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","HOUSSET","NICOLAS","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","JARNO","MICKAEL","agent d'exploitation","District 56",NA,NA,NA
-"Vannes","JOSE","PATRICE","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","KERGARAVAT","BRUNO","responsable d'explo","District 56",NA,NA,NA
 "Vannes","KERJOUAN","JEAN-CHARLES","agent d'exploitation","District 56",NA,NA,NA
 "Vannes","LE BLANC","BRUNO","agent d'exploitation","District 56",NA,NA,NA
@@ -102,3 +101,6 @@
 "Vannes","SCHOTT","YANNICK","responsable d'explo","District 56",NA,NA,NA
 "Vannes","THORON","PHILIPPE","chef equipe b","District 56",NA,NA,NA
 "Vannes","TOSTEN","DYLAN","agent d'exploitation","District 56","Nacelles 1B _ ACES","10/11/2028","Durable"
+"ST 56","BELLEC","GILLES","ouvrier en equipes","District 56",NA,NA,NA
+"ST 56","HELIES","LAURENT","responsable  sectio","District 56",NA,NA,NA
+"ST 56","RENAUD","THIERRY","ouvrier en equipes","District 56",NA,NA,NA
